@@ -1,0 +1,40 @@
+
+> herals-docs@0.0.1 build /Users/theodorepender/Coding/ts-projects/herald/apps/docs
+> next build
+
+- info Linting and checking validity of types...
+- info Creating an optimized production build...
+- info Compiled successfully
+- info Collecting page data...
+- info Generating static pages (0/17)
+- info Generating static pages (4/17)
+- info Generating static pages (8/17)
+- info Generating static pages (12/17)
+- info Generating static pages (17/17)
+- info Finalizing page optimization...
+
+Route (pages)                              Size     First Load JS
+┌ ○ /                                      2.57 kB         177 kB
+├ ○ /404                                   182 B          80.4 kB
+├ ○ /about                                 1.53 kB         176 kB
+├ ○ /architecture                          4.32 kB         179 kB
+├ ○ /benchmarks                            111 kB          285 kB
+├ ○ /build                                 7.32 kB         182 kB
+├ ○ /config                                1.38 kB         176 kB
+├ ○ /contribute                            2.07 kB         176 kB
+├ ○ /ecosystem                             1.38 kB         176 kB
+├ ○ /ecosystem/project1                    1.39 kB         176 kB
+├ ○ /future                                1.53 kB         176 kB
+├ ○ /ideas                                 3.2 kB          178 kB
+├ ○ /introduction                          3.55 kB         178 kB
+├ ○ /security                              1.56 kB         176 kB
+├ ○ /tools                                 1.65 kB         176 kB
+└ ○ /why                                   1.65 kB         176 kB
++ First Load JS shared by all              80.2 kB
+  ├ chunks/framework-2647c7e378e02044.js   45.2 kB
+  ├ chunks/main-4a84d77c27f836c3.js        33.9 kB
+  ├ chunks/pages/_app-b4ba94ed1a85e204.js  195 B
+  └ chunks/webpack-38cee4c0e358b1a3.js     862 B
+
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+

@@ -1,0 +1,28 @@
+{
+	"--": {
+		"type": "separator",
+		"title": "Content"
+	},
+	"index": "Home",
+	"introduction": "Introduction",
+	"ideas": "Key Ideas",
+	"---": {
+		"type": "separator",
+		"title": "Blogs"
+	},
+	"november-2023": "November 2023",
+	"----": {
+		"type": "separator",
+		"title": "Security"
+	},
+	"about": {
+		"title": "About",
+		"type": "page"
+	},
+	"contact": {
+		"title": "Contact ↗",
+		"type": "page",
+		"href": "https://discord.com/channels/1127906495409958953/1137446548469448805",
+		"newWindow": true
+	}
+}
