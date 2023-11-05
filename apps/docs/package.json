@@ -11,9 +11,9 @@
   "author": "Teddy Pender <email@email.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/palladians/herald/issues"
+    "url": "https://github.com/teddyjfpender/tjfpender/issues"
   },
-  "homepage": "https://github.com/palladians/herald",
+  "homepage": "https://github.com/teddyjfpender/tjfpender",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
